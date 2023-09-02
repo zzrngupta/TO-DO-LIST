@@ -1,0 +1,30 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "This is a web project using node.js,Express and MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzrngupta/TO-DO-LIST.git"
+  },
+  "keywords": [
+    "To",
+    "Do",
+    "List"
+  ],
+  "author": "Rinkesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzrngupta/TO-DO-LIST/issues"
+  },
+  "homepage": "https://github.com/zzrngupta/TO-DO-LIST#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
